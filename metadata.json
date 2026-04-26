@@ -1,0 +1,8 @@
+{
+  "name": "Wesal - Humanitarian Coordination Platform",
+  "description": "A smart coordination platform for humanitarian aid and disaster response, featuring AI-driven priority management and real-time field operations tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
